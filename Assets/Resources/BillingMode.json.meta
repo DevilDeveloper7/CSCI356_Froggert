@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10d1aa183986aab4399b855d854d38e1
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168288
+  packageName: Firefly
+  packageVersion: 2021.
+  assetPath: Assets/Resources/BillingMode.json
+  uploadId: 608270

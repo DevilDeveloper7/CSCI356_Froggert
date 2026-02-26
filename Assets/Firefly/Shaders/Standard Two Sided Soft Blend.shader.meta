@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d892f11dca87834a90facbb77c236b6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168288
+  packageName: Firefly
+  packageVersion: 2021.
+  assetPath: Assets/Firefly/Shaders/Standard Two Sided Soft Blend.shader
+  uploadId: 608270

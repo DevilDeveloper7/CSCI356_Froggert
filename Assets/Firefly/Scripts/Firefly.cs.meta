@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6973194f97cb00a4fb97c6a6cb33539b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168288
+  packageName: Firefly
+  packageVersion: 2021.
+  assetPath: Assets/Firefly/Scripts/Firefly.cs
+  uploadId: 608270

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b707a76555acc04ea95bafaf090345d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168288
+  packageName: Firefly
+  packageVersion: 2021.
+  assetPath: Assets/Firefly/Materials/Matte-Shadow.mat
+  uploadId: 608270

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b3f5c0f84a6be2d4ea964e60d85786f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168288
+  packageName: Firefly
+  packageVersion: 2021.
+  assetPath: Assets/Firefly/Scripts/LookAt.cs
+  uploadId: 608270

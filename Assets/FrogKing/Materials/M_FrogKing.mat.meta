@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe0962d53b999514f9d7e97ecd724bc7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308951
+  packageName: Frog King
+  packageVersion: 1.0
+  assetPath: Assets/FrogKing/Materials/M_FrogKing.mat
+  uploadId: 727096

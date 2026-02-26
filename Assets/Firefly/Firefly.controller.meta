@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8d366d364816b645afc58ea71b9d5a9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168288
+  packageName: Firefly
+  packageVersion: 2021.
+  assetPath: Assets/Firefly/Firefly.controller
+  uploadId: 608270

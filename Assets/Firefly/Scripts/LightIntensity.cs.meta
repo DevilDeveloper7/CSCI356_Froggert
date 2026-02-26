@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fe72b32d1ff1d8943bc369de9b4a71fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168288
+  packageName: Firefly
+  packageVersion: 2021.
+  assetPath: Assets/Firefly/Scripts/LightIntensity.cs
+  uploadId: 608270

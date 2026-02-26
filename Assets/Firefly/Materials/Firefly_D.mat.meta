@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed7a83ca1c5525b45bf56874fa034092
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168288
+  packageName: Firefly
+  packageVersion: 2021.
+  assetPath: Assets/Firefly/Materials/Firefly_D.mat
+  uploadId: 608270
