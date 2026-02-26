@@ -83,15 +83,8 @@ public class BugAI : MonoBehaviour
         }
     }
     
-    void Update()
+void Update()
     {
-        // Always start with fly animation
-        if (animator != null)
-        {
-            animator.SetBool("fly", true);
-            animator.SetBool("idle", false);
-        }
-
         // Check if player exists and is close
         if (player != null)
         {
@@ -101,7 +94,10 @@ public class BugAI : MonoBehaviour
             if (distanceToPlayer < detectionRadius)
             {
                 // ESCAPE MODE
-                isEscaping = true;
+                if (!isEscaping)
+                {
+                    isEscaping = true;
+                }
                 Escape();
             }
             else if (isEscaping && distanceToPlayer > escapeDistance)

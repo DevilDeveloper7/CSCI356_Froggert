@@ -39,8 +39,11 @@ public class FrogControllerPhysics : MonoBehaviour
         rb = GetComponent<Rigidbody>();
         if (rb == null)
         {
-            rb = gameObject.AddComponent<Rigidbody>();
+                        rb = gameObject.AddComponent<Rigidbody>();
             rb.mass = 1f;
+            rb.linearDamping = 0.5f;
+            rb.angularDamping = 0.05f;
+            rb.interpolation = RigidbodyInterpolation.Interpolate;
             rb.constraints = RigidbodyConstraints.FreezeRotation;
         }
 

@@ -33,29 +33,7 @@ void Start()
         Debug.Log("BugEater initialized with eat radius: " + eatDistance);
     }
 
-void Update()
-    {
-        // Check distance to all bugs (backup method)
-        for (int i = bugs.Count - 1; i >= 0; i--)
-        {
-            if (bugs[i] == null)
-            {
-                // Bug was destroyed, remove from list
-                bugs.RemoveAt(i);
-                continue;
-            }
 
-            float distance = Vector3.Distance(transform.position, bugs[i].transform.position);
-            float verticalDistance = Mathf.Abs(transform.position.y - bugs[i].transform.position.y);
-
-            // If close enough horizontally AND vertically, eat the bug
-            if (distance < eatDistance && verticalDistance < 0.8f)
-            {
-                EatBug(bugs[i]);
-                bugs.RemoveAt(i);
-            }
-        }
-    }
 
     // Trigger-based eating (more reliable)
 void OnTriggerEnter(Collider other)
