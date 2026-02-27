@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 Claude.md
 .claude/
+Assets/Screenshots/
+Assets/Screenshots.meta
+.vscode/
