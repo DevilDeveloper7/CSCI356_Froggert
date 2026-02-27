@@ -35,10 +35,14 @@ public class ThirdPersonCamera : MonoBehaviour
     private float yawVelocity;
     private float pitchVelocity;
     private Vector3 positionVelocity;
+    private Transform cachedTransform;
 
-    private void Start()
+        
+
+        private void Start()
     {
-        Vector3 angles = transform.eulerAngles;
+        cachedTransform = transform;
+        Vector3 angles = cachedTransform.eulerAngles;
         yaw = angles.y;
         pitch = angles.x;
 
